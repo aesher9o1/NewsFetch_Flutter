@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'news.dart';
-import 'childSearch.dart';
+import 'pages/main/news.dart';
+import 'pages/main/childSearch.dart';
 
 void main() => runApp(MyApp());
 
